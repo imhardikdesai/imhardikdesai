@@ -6,7 +6,16 @@
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://assets2.lottiefiles.com/packages/lf20_hijdc45w/data.json"/>
+- 🌱 I’m currently learning **To be Extroverted** <lottie-player
+  autoplay
+  controls
+  loop
+  mode="normal"
+  src="https://assets2.lottiefiles.com/packages/lf20_hijdc45w/data.json"
+  style="width: 320px" >
+</lottie-player>
+
+<!-- <img align="right" style="width:16rem; height:auto" src="https://assets2.lottiefiles.com/packages/lf20_hijdc45w/data.json"/> -->
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
