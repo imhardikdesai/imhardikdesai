@@ -1,14 +1,12 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img style="width:8rem; height:auto" src="assets/" >
 </p>
 
 <h1 align="center">Hi, I'm Hardik Desai<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/> 
-
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 🌱 I’m currently learning **Full-stack** Web Development <img align="right" style="width:16rem; height:auto" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/> 
 
 - 🤝 I’m looking for help with **Backend Design**
 
@@ -18,7 +16,10 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
-
+<a href="https://github.com/imhardikdesai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imhardikdesai&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhardikdesai&theme=buefy&layout=compact" />
+</a>
 ---
 
 
