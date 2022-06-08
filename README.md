@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Hardik Desai<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<h3 font-size="20" align="center">A passionate Ful stack developer and a student from India.</h3>
 
 
 - 🌱 I’m currently learning **Full-stack** Web Development <img align="right" style="width:16rem; height:auto" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/> 
@@ -104,21 +104,21 @@
 <div style="margin-top:10px" align="center">
   
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/desai-hardik-6b239b213/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="https://twitter.com/imhardikdesai" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </div>
   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
+    <a  href="https://www.codechef.com/users/imhardikdesai" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
+    <a href="https://www.hackerrank.com/hp676913" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
+    <a href="https://leetcode.com/imhardikdesai/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
