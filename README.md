@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/imhardikdesai](https://bit.ly/imhardikdesai)
 
-- 📝 I regularly write articles on [http://howtechget.blogpost.com](http://howtechget.blogpost.com)
+- 📝 I regularly write articles on [http://howtechget.blogpost.com](http://howtechget.blogspot.com/)
 
 - 💬 Ask me about **JavaScript**
 
