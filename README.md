@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhardikdesai&show_icons=true&locale=en" alt="imhardikdesai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhardikdesai&" alt="imhardikdesai" /></p>
+
+<p align="center" dir="auto">
+<img src="https://activity-graph.herokuapp.com/graph?username=imhardikdesai&show_icons=true&count_private=true&area=true&bg_color=FFF&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=false" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=imhardikdesai&amp;show_icons=true&amp;count_private=true&amp;area=true&amp;bg_color=FFF&amp;color=333333&amp;line=ABD6DFFF&amp;point=89ABE3FF&amp;hide_border=false" style="max-width: 100%;"></a>
+</p>
