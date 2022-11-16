@@ -15,11 +15,7 @@
 
 - 🔭 I’m currently working on **CSS - Generator**
 
-- 🌱 I’m currently learning **Node Js, React Js**
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/imhardikdesai](https://bit.ly/imhardikdesai)
-
-- 📝 I regularly write articles on [http://howtechget.blogpost.com](http://howtechget.blogspot.com/)
+- 🌱 I’m currently learning **React Js, Node Js**
 
 - 💬 Ask me about **JavaScript**
 
