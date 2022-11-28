@@ -67,7 +67,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhardikdesai&show_icons=true&theme=dracula" alt="imhardikdesai" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhardikdesai&hide=contribs&show_icons=true&theme=radical" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhardikdesai&layout=compact&theme=dracula&langs_count=10" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhardikdesai&theme=radical" alt="imhardikdesai" /></p>
 
