@@ -4,7 +4,7 @@
 
 
 
-![red](https://komarev.com/ghpvc/?username=imhardikdesai&color=red) [![Website Badge](https://img.shields.io/badge/Website-Hardik-red?style=flat&logo=Google-chrome&logoColor=white)](https://imhardikdesai.netlify.app/)
+![red](https://komarev.com/ghpvc/?username=imhardikdesai&color=red) [![Website Badge](https://img.shields.io/badge/Website-Hardik-red?style=flat&logo=Google-chrome&logoColor=white)]([https://imhardikdesai.netlify.app/](https://hardik-portfolio.vercel.app/))
 
 <!-- Trophy Code  -->
 <!-- <p align="left"> 
@@ -13,13 +13,13 @@
 </a>
 </p> -->
 
-- 🔭 I’m currently working on **CSS - Generator**
+- 🔭 I’m currently working on **Krishi Connect**
 
-- 🌱 I’m currently learning **React Js, Node Js**
+- 🌱 I’m currently learning **Node Js, Sails JS**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **hp676913@gmail.com**
+- 📫 How to reach me **hardikdesaitech@gmail.com**
 
 
 ### My Top Projects:
