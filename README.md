@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Krishi Connect**
 
-- 🌱 I’m currently learning **Node Js, Sails JS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **JavaScript**
 
