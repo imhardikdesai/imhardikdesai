@@ -1,4 +1,5 @@
-![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
+
+[![An image of @imhardikdesai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imhardikdesai)](https://holopin.io/@imhardikdesai)
 <h1 align="center">Hi 👋, I'm Hardik Desai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
