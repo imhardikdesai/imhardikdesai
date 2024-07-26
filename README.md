@@ -1,7 +1,7 @@
 
 [![An image of @imhardikdesai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imhardikdesai)](https://holopin.io/@imhardikdesai)
 <h1 align="center">Hi 👋, I'm Hardik Desai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 
 
@@ -14,7 +14,7 @@
 </a>
 </p> -->
 
-- 🔭 I’m currently working on **Krishi Connect**
+- 🔭 I’m currently working on **CraftUI.studio**
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -25,15 +25,7 @@
 
 ### My Top Projects:
 
-- [![Website Badge](https://img.shields.io/badge/☁️-Weather_Finder-orange?style=flat&logo=&logoColor=green)](https://github.com/imhardikdesai/Weather-App-React)
-
-- [![Website Badge](https://img.shields.io/badge/🏠-Hostel_Website-blueviolet?style=flat&logo=&logoColor=green)](https://github.com/imhardikdesai/patel-boarding-web-react)
-
-- [![Website Badge](https://img.shields.io/badge/👟-Kiks_Square_Store-ff69b4?style=flat&logo=&logoColor=green)](https://github.com/imhardikdesai/Kiks-Square-Store)
-
-- [![Website Badge](https://img.shields.io/badge/📰-News_Website-yellow?style=flat&logo=&logoColor=green)](https://github.com/imhardikdesai/news-website)
-
-- [![Website Badge](https://img.shields.io/badge/🧑‍💻-Live_Coding_Contest-blue?style=flat&logo=&logoColor=green)](https://github.com/imhardikdesai/live-coding-contest)
+- <a href="https://hardik-portfolio.vercel.app/projects" target="_blank" rel="noreferrer">Here</a>
 
 
 
