@@ -103,10 +103,6 @@ const hardik = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhardikdesai&theme=tokyonight&hide_border=true" alt="Hardik's GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhardikdesai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hardik's Top Languages" />
 </div>
 
