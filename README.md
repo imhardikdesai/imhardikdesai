@@ -120,7 +120,7 @@ const hardik = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/desai-hardik-6b239b213">
+  <a href="https://linkedin.com/in/imhardikdesai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/imhardikdesai">
