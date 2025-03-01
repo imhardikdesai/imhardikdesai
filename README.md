@@ -135,7 +135,7 @@ const hardik = {
 </div>
 
 <!-- Hacktoberfest Section -->
-## 🏆 Hacktoberfest Achievements
+## 🏆 Achievements
 
 <div align="center">
   <a href="https://holopin.io/@imhardikdesai">
